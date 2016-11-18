@@ -1,0 +1,37 @@
+html{
+	background-color: antiquewhite;
+	border: 3px solid black;
+  padding: 20px;
+}
+
+div{
+  border: 5px solid black;
+  padding: 20px;
+}
+
+h1{
+	font-weight: bold;
+	font-size: 50px;
+	line-height: 5px;
+}
+
+h3{
+  padding-top: 20px;
+}
+
+h4{
+  line-height: 1px;
+}
+
+address{
+  padding-bottom: 25px;
+}
+
+p{
+	text-indent: 15px;
+}
+
+img{
+  padding: 8px;
+  border: 1px solid black; 
+}
